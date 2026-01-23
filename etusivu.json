@@ -1,41 +1,5 @@
 {
-  "navbar.links.joinMember.label": "Liity nyt",
-  "navbar.links.joinMember.url": "https://easiointi.yap.fi/Teollisuusliitto/eJoin",
-
-  "navbar.links.easiointi.label": "eAsiointi",
-  "navbar.links.easiointi.url": "https://easiointi.yap.fi/teollisuusliitto",
-
-  "navbar.links.memberBenefits.label": "Jäsenedut",
-  "navbar.links.memberBenefits.url": "https://teollisuus59.fi/?p=97",
-
-  "navbar.links.contact.label": "Yhteystiedot",
-  "navbar.links.contact.url": "https://teollisuus59.fi/?p=97",
-
-  "navbar.links.news.label": "Ajankohtaista",
-  "navbar.links.news.url": "https://teollisuus59.fi/?p=97",
-
-  "navbar.links.board.label": "Hallitus",
-
-  "uusimmat.uutiset": "Osastollamme on järjestäjä Jarkko Immonen",
-
-  "hero.title.line1": "Osasto",
-  "hero.title.line2": "59",
-
-  "features.sectionId": "Meistä",
-  "features.heading": "",
-
-  "cards.1.title": "Sijainti",
-  "cards.1.desc": "Toimistomme sijaitsee osoitteessa Torikatu 7 B 24 ja on avoinna vain sovittuna ajankohtana.",
-
-  "footer.heading": "Yhteystiedot",
-  "footer.orgName": "Joensuun Seudun Teollisuustyöntekijät ry",
-  "footer.address.line1": "Torikatu 7 B 24",
-  "footer.address.line2": "80110 Joensuu",
-  "footer.phone.label": "puh.",
-  "footer.phone.value": "04578200694",
-
-  "footer.copyright.prefix": "Copyright ©",
-  "footer.copyright.suffix": "Joensuun Seudun Teollisuustyöntekijät ry"
+  "uusimmat.uutiset": "Osastollamme on järjestäjä Jarkko Immonen"
 }
 
 
