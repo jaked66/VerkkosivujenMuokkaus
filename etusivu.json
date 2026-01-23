@@ -1,6 +1,4 @@
 {
-  "navbar.brand.title": "Joensuun seudun Teollisuustyöntekijät RY",
-
   "navbar.links.joinMember.label": "Liity nyt",
   "navbar.links.joinMember.url": "https://easiointi.yap.fi/Teollisuusliitto/eJoin",
 
@@ -23,9 +21,6 @@
 
   "features.sectionId": "Meistä",
   "features.heading": "",
-
-  "cards.0.title": "Osastomme",
-  "cards.0.desc": "Teollisuus 59 on vuonna 1930 perustettu osasto, jossa on noin 2300 jäsentä.",
 
   "cards.1.title": "Sijainti",
   "cards.1.desc": "Toimistomme sijaitsee osoitteessa Torikatu 7 B 24 ja on avoinna vain sovittuna ajankohtana.",
